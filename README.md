@@ -29,10 +29,13 @@ Kubernetes Service
 Kubernetes Pods (2048 Game)
 
 ⚙️ Implementation Steps
+
 1️⃣ Create EKS Cluster
 eksctl create cluster --name demo-cluster --region us-east-1 --fargate
+
 2️⃣ Configure kubectl
 aws eks update-kubeconfig --region us-east-1 --name demo-cluster
+
 3️⃣ Install AWS Load Balancer Controller
 
 Deploy the controller required to create and manage AWS ALB resources through Kubernetes.
