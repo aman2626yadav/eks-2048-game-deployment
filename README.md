@@ -61,5 +61,4 @@ Configuring ALB Ingress with AWS Load Balancer Controller
 Managing Kubernetes resources (Pods, Services, Ingress)
 Exposing Kubernetes workloads to the internet using AWS ALB
 
-for proof above the folder has a screenshort
-http://k8s-game2048-ingress2-bcac0b5b37-196753871.us-east-1.elb.amazonaws.com
+for proof above the folder hava  a screenshort
